@@ -1,0 +1,142 @@
+body{
+	background-color: #e2e2c4;
+	height: 100%;
+}
+
+.gezi0{
+	line-height:60px;			/* 垂直居中*/
+	font-size:30px;
+	background-color:#ccc0b2;
+	color:#29291B;		/*tmp*/
+	text-align:center;			/* 水平居中*/
+	color:#29291b;width:60px;
+	height: 60px; float: left;
+	border:3px solid rgb(160, 145, 124);
+	
+}
+	
+.gezi2{
+	font-weight: 700;
+	line-height:60px;
+	font-size:30px;
+	background-color:#ede3d8;
+	text-align:center;
+	color:#786d62;
+	width:60px;
+	height: 60px; 
+	float: left;
+	border:3px solid rgb(160, 145, 124);
+}
+	
+
+.gezi4{
+	font-weight: 700;
+	line-height:60px;
+	font-size:30px;
+	background-color:#eadfc8;
+	text-align:center;
+	color:#7c6f62;width:60px;
+	height: 60px; float: left;
+	border:3px solid rgb(160, 145, 124);
+}
+		
+		
+.gezi8{
+	font-weight: 700;
+	line-height:60px;
+	font-size:30px;
+	background-color:#f7b26f;
+	text-align:center;
+	color:#f6f4ec;width:60px;
+	height: 60px; float: left;
+	border:3px solid rgb(160, 145, 124);
+}
+	
+			
+.gezi16{
+	font-weight: 700;
+	line-height:60px;
+	font-size:30px;
+	background-color:#f79251;
+	text-align:center;
+	color:#fffcf3;width:60px;
+	height: 60px; float: left;
+	border:3px solid rgb(160, 145, 124);
+}
+	
+.gezi32{
+	font-weight: 700;
+	line-height:60px;
+	font-size:30px;
+	background-color:#ff855c;
+	text-align:center;
+	color:#fffbf6;width:60px;
+	height: 60px; float: left;
+	border:3px solid rgb(160, 145, 124);
+}
+
+.gezi64{
+	font-weight: 700;
+	line-height:60px;
+	font-size:30px;
+	background-color:#f86434;
+	text-align:center;
+	color:#fff3e4;width:60px;
+	height: 60px; float: left;
+	border:3px solid rgb(160, 145, 124);
+}
+
+.gezi128{
+	font-weight: 700;
+	line-height:60px;
+	font-size:30px;
+	background-color:#f7d367;
+	text-align:center;
+	color:#fffef7;width:60px;
+	height: 60px; float: left;
+	border:3px solid rgb(160, 145, 124);
+}
+
+.gezi256{
+	font-weight: 700;
+	line-height:60px;
+	font-size:30px;
+	background-color:#f6c949;
+	text-align:center;
+	color:#fefefc;width:60px;
+	height: 60px; float: left;
+	border:3px solid rgb(160, 145, 124);
+}
+
+.gezi512{
+	font-weight: 700;
+	line-height:60px;
+	font-size:30px;
+	background-color:#fbdb52;
+	text-align:center;
+	color:#fffee6;width:60px;
+	height: 60px; float: left;
+	border:3px solid rgb(160, 145, 124);
+}
+
+.gezi1024{
+	font-weight: 700;
+	line-height:60px;
+	font-size:30px;
+	background-color:#fed83e;
+	text-align:center;
+	color:#fffec7;width:60px;
+	height: 60px; float: left;
+	border:3px solid rgb(160, 145, 124);
+}
+
+.gezi2048{
+	font-weight: 700;
+	line-height:60px;
+	font-size:30px;
+	background-color:#fed52d;
+	text-align:center;
+	color:#ffffbe;width:60px;
+	height: 60px; float: left;
+	border:3px solid rgb(160, 145, 124);
+}
